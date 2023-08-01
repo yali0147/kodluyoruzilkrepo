@@ -9,4 +9,6 @@
 
 * *README DOSYASI*
 * *İndex.html Dosyası*
+* *Bir png dosyası*
 ---
+[![githubproje resmi](https://raw.githubusercontent.com/yali0147/kodluyoruzilkrepo/main/proje%201.png)](https://github.com/yali0147/kodluyoruzilkrepo)
