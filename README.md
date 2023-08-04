@@ -23,6 +23,7 @@ Linux için:
 
 ## Contributing 
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
+
 ##Licence
 [MİT](https://choosealicense.com/licenses/mit/)
 
